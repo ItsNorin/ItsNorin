@@ -3,7 +3,7 @@
 
 #### Languages and Tools
 
-<img align="left" width="24px" style="padding-left: 0px" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
+[<img align="left" width="24px" style="padding-left: 0px" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />](https://isocpp.org/)
 
 [<img align="left" width="24px" style="padding-left: 8px"  alt="Java" src="https://raw.githubusercontent.com/ItsNorin/ItsNorin/fbc6b9a7d55f3914a363734f462a640d0cdb1bcf/Java_programming_language_logo.svg" />](https://www.java.com/en/)
 
@@ -22,3 +22,5 @@
 #### Contact me
 
 [<img align="left" alt="Norin | Discord" height="48px" src="https://discord.com/assets/e4923594e694a21542a489471ecffa50.svg" />](https://dsc.bio/itsnorin)
+
+[Norin]: https://github.com/ItsNorin
