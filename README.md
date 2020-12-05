@@ -3,17 +3,20 @@
 
 #### Languages and Tools
 
-<table alight="left" style="width:320px; border:0px;">
-  <tr>
-    <td style="width:1%"><img align="left" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /></td>
-    <td style="width:1%"><img align="left" alt="Java" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" /></td>
-    <td style="width:1%"><img align="left" alt="Godot" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" /></td>
-    <td style="width:1%"><img align="left" alt="Visual Studio" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" /></td>
-    <td style="width:1%"><img align="left" alt="GitHub" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" /></td>
-    <td style="width:1%"><img align="left" alt="Git" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" /></td>
-  </tr>
-</table>
+[<img align="left" width="24px" style="padding-left: 0px" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />]()
 
+[<img align="left" width="24px" style="padding-left: 8px"  alt="Java" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />](https://www.java.com/en/)
+
+[<img align="left" width="24px" style="padding-left: 8px"  alt="Godot" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" />](https://godotengine.org/)
+
+[<img align="left" width="24px" style="padding-left: 8px"  alt="Visual Studio" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />](https://visualstudio.microsoft.com/)
+
+[<img align="left" width="24px" style="padding-left: 8px"  alt="GitHub" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />](https://github.com/ItsNorin)
+
+[<img align="left" width="24px" style="padding-left: 8px"  alt="Git" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />](https://git-scm.com/)
+
+<br/>
+<br/>
 <br/>
 
 #### Contact me
