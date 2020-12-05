@@ -5,7 +5,7 @@
 
 [<img align="left" width="24px" style="padding-left: 0px" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />]()
 
-[<img align="left" width="24px" style="padding-left: 8px"  alt="Java" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />](https://www.java.com/en/)
+[<img align="left" width="24px" style="padding-left: 8px"  alt="Java" src="https://raw.githubusercontent.com/ItsNorin/ItsNorin/fbc6b9a7d55f3914a363734f462a640d0cdb1bcf/Java_programming_language_logo.svg" />](https://www.java.com/en/)
 
 [<img align="left" width="24px" style="padding-left: 8px"  alt="Godot" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" />](https://godotengine.org/)
 
